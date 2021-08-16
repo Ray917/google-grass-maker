@@ -20,6 +20,7 @@ GET / POST
 ## 原理
 使用谷歌翻译成某个小语种，然后再翻译回原来的语言。
 ## 源码
+GitHub 仓库地址：https://github.com/Ray917/google-grass-maker  
 Gitee 仓库地址：https://gitee.com/Ray917/google-grass-maker
 ## Copyright
 2021 RayGroup. All Rights Reserved.
